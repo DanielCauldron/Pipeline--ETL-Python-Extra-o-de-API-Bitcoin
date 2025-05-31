@@ -1,1 +1,1 @@
-# Pipeline--ETL-Python-Extra-o-de-API-Bitcoin
+# Pipeline ETL Python - Extração de API Bitcoin com Agno Agente AI, SQL e Streamlit
