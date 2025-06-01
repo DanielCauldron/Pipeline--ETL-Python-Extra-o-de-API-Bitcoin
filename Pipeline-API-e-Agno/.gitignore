@@ -1,0 +1,19 @@
+# Arquivo de banco de dados TinyDB
+db.json
+
+# Ambiente virtual
+venv/
+.env/
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints de notebooks Jupyter
+*.ipynb_checkpoints
+
+# Configurações do VS Code
+.vscode/
