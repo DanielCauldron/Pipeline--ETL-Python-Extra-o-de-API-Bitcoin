@@ -1,6 +1,4 @@
 # Pipeline ETL de Extração de Preço do Bitcoin via API Coinbase
-<<<<<<< Updated upstream
-=======
 
 Este projeto realiza a extração automática do preço do Bitcoin utilizando a API pública da Coinbase, transforma os dados e armazena localmente em um banco de dados leve (TinyDB).
 
