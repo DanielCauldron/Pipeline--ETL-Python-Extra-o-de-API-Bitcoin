@@ -1,1 +1,1 @@
-# Pipeline ETL Python - Extração de API Bitcoin com Agno Agente AI, SQL e Streamlit
+# Pipeline ETL de Extração de Preço do Bitcoin via API Coinbase
